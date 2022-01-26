@@ -17,7 +17,7 @@ Interface do usuário.
 
 <p align="center">
   <kbd>
- <img width="850" style="border-radius: 10px" height="550" src="" alt="Intro"> 
+ <img width="750" style="border-radius: 10px" height="520" src="https://github.com/JuanCampbsi/To.do-Web/blob/c418d08a9af837f1a296cdee3a8c7995a8f34fb8/assets/preview.gif" alt="Intro"> 
   </kbd>
   </br>
 </p>
